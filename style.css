@@ -72,14 +72,14 @@ h2::before {
 .form textarea:hover,
 .form textarea:focus {
     outline: none;
-    border-color: #09d;
-    box-shadow: 0 0 0 3px #4dc8ff;
+    border-color: #FFD54F;
+    box-shadow: 0 0 0 3px #FFD54F;
 }
 
 .form button {
     display: block;
     padding: 1rem;
-    background: rgb(4, 182, 253);
+    background: #FFD54F;
     color: #fff;
     font: inherit;
     text-transform: uppercase;
@@ -92,5 +92,5 @@ h2::before {
 .form button:hover,
 .form button:focus {
     outline: none;
-    background: #4dc8ff;
+    background: #fdc200;
 }
